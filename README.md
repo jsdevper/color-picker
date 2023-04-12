@@ -1,7 +1,9 @@
 # color-picker by vue3
 
 ![image-20230412110741435](/img/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7.png)
-version : 0.1
+버전: version : 0.1 
+<br/>
+확인 경로: https://jsdevper.github.io/color-picker/
 <br/><br/>
 ### 필요성
 
